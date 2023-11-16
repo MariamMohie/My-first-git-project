@@ -18,6 +18,6 @@ jobs:
 
 
       - name: "login to docker hub" 
-       run: docker login --username mero610 --password dckr_pat__xdfQNdIn34NJ35xNL3UOGwtLPo
+        run: docker login --username mero610 --password dckr_pat__xdfQNdIn34NJ35xNL3UOGwtLPo
 
      
